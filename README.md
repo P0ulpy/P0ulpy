@@ -1,6 +1,6 @@
 <!-- ### Ça poulpe ou quoi ? 🦑-->
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=P0ulpy&show_icons=true&count_private=true&theme=dracula" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=P0ulpy&show_icons=true&count_private=false&theme=dracula" />
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=P0ulpy&theme=dracula" />
 
 
