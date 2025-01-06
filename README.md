@@ -15,12 +15,6 @@ I'm a System Programmer with a focus on Game Engine programming. I love making s
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=P0ulpy&hide=JavaScript&layout=compact" />
 
----
-
-## Projects i'm currently working on
-[![log-compiler](https://github-readme-stats.vercel.app/api/pin/?username=P0ulpy&repo=log-compiler)](https://github.com/P0ulpy/log-compiler)
-[![raycasting-engine](https://github-readme-stats.vercel.app/api/pin/?username=P0ulpy&repo=raycasting-engine)](https://github.com/P0ulpy/raycasting-engine)
-
 <!--
 **P0ulpy/P0ulpy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
