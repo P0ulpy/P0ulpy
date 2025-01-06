@@ -1,5 +1,5 @@
 <!-- ### Ça poulpe ou quoi ? 🦑-->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=P0ulpy&theme=dracula&hide=JavaScript" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=P0ulpy&hide=JavaScript&layout=compact" />
 
 <!--
 **P0ulpy/P0ulpy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
