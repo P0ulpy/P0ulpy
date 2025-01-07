@@ -1,12 +1,12 @@
 <!-- ### Ça poulpe ou quoi ? 🦑-->
 
 <div id="header" align="center">
-  <img src="https://avataaars.io/?accessoriesType=Prescription02&avatarStyle=Circle&clotheColor=Blue03&clotheType=Hoodie&eyeType=Wink&facialHairColor=Auburn&facialHairType=BeardLight&hairColor=Blonde&mouthType=Default&topType=ShortHairShortCurly" width="150"/>
+  <img src="https://github.com/user-attachments/assets/2d395ad5-a89c-440b-a501-c4224faaccaf" width="150"/>
 </div>
 
 <h1 align="center">
-  Hello there, welcome to my profile
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  Hello there
+  <img src="https://github.com/user-attachments/assets/41fc24ee-8a0d-423c-a7b5-0175272b8c15" width="30px"/>
 </h1>
 
 ![profile views](https://komarev.com/ghpvc/?username=P0ulpy&color=blue)
