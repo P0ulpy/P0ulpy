@@ -11,7 +11,7 @@
 
 ![profile views](https://komarev.com/ghpvc/?username=P0ulpy&color=blue)
 
-I'm a System Programmer with a focus on Game Engine programming. I love making silly projects, go check them out !
+I'm a System Programmer who love creating game related applications. I love making silly projects, go check them out !
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=P0ulpy&hide=JavaScript&layout=compact" />
 
